@@ -1,11 +1,9 @@
 using System;
 
-static public void Main(string Args[])
+static int Main(string[] args)
 {
-
-
-  System.Writeline("Print something KLK");
+  System.Writeline("Print something here");
   System.Readline();
-
+  return 0;
 }
 
